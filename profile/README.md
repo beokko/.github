@@ -8,6 +8,6 @@ We design, deploy and run cloud and AI platforms alongside your teams, rather th
 - **Sovereign & commercial AI**: open-weight LLMs on-premise or in the EU, RAG assistants, agents and MCP servers.
 - **Modernisation & DevOps**: containerisation, CI/CD, AI integration in existing applications.
 
-AWS Solutions Architect Professional, CKA and CKS certified engineers. Member of the AWS Partner Network.
+CKA and CKS certified engineers. Member of the AWS Partner Network.
 
 🌐 [okko.be](https://okko.be/en/) · 💼 [LinkedIn](https://www.linkedin.com/company/okkobe) · ✉️ contact@okko.be
